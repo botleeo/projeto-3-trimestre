@@ -1,0 +1,88 @@
+body{
+
+  background-color: darkgrey
+
+  
+  }
+;
+  
+  
+
+  #pendrive {
+  
+  
+      float: left;
+      height: 420px;
+      width: 327px;
+  
+  
+  }
+  .produtotexto h1{
+  
+  margin: 0 0 0 0 38px;
+  padding-top: 1px;
+  font-size: 32px;
+  color: yellow;
+  }
+  
+  .produtotexto h1,
+  .botaopreco p{
+     font-size: 'benthman',serif;
+  
+  }
+  .produtotexto h2{
+      margin: 0 0 47px 38px ;
+  }
+  
+  .produtotexto p{
+  
+  height: 225px;
+  padding-bottom: 100px;
+  margin: 0 0 47px 38px;
+  font-family: 'playfair display', serif;
+  color: greenyellow;
+  line-height: 1.7em;
+  font-size: 15px;
+  font-weight: lighter;
+  overflow: hidden;
+  }
+  .botaopreco{
+  height: 103px;
+  padding-right: 50px;
+  width: 327px;
+  margin-top: 30px;
+  position: relative;
+  
+  }
+  .botaopreco p{
+  display: inline-block;
+  position: absolute;
+  top: -13px;
+  height: 50px;
+  font-family: 'trocchi',serif;
+  margin: 0 0 0 50px;
+  font-size: 20px;
+  font-weight: lighter;
+  color: violet;
+  }
+   
+  span{
+  
+   display:inline-block;
+   height: 110px; 
+   margin: auto; 
+   font-family: 'suranna',serif; 
+   font-size: 34px; 
+  
+  }
+ 
+ 
+.abc{
+
+display: inline-flex;
+
+}
+.wrap{
+  padding: 10px;
+  display: inline;
+}
